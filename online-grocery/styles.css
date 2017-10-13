@@ -1,0 +1,100 @@
+body {
+	background-color: #b3ffff;
+	top: 0px;
+	padding: 0px;
+}
+
+.item-image {
+	float: right;
+	height: 60px;
+	padding-bottom: 10px;
+}
+
+#cart {
+	float: right;
+	margin-right: 30px;
+	margin-top:30px;
+}
+
+.cart-item {
+	display: inline;
+	vertical-align: middle;
+}
+
+#item-count-selector {
+	float:right;
+}
+
+.cart-item img {
+	display: inline;
+}
+
+.cart-item h2 {
+	display: inline;
+	top: 45px;
+}
+
+#ads {
+	padding-top: 20px;
+	text-align: center;
+}
+
+.ad {
+	width: 20%;
+
+}
+
+#navigation {
+	background-color: #F7F7F7;
+}
+
+#sidebar {
+	height: 250px;
+}
+
+.breadcrumb {
+
+}
+
+.page-header {
+
+}
+
+.title {
+	height: 100px;
+	background-color: #319F52;
+	color:white;
+	padding-left: 30px;
+	top: 0px;
+	position: relative;
+	text-align: center;
+}
+
+.title h1 {
+	float:left;
+	vertical-align: middle;
+}
+
+
+
+.title img {
+	marin-top:20px;
+	vertical-align: middle;
+	float:right;
+}
+
+.search-bar {
+
+}
+
+.add-to-cart {
+	float:right;
+}
+
+#items {
+
+}
+
+.caption p a {
+	float: ;
+}
